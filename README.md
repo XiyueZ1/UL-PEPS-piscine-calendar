@@ -1,5 +1,7 @@
 # PEPS piscine → Google Calendar
 
+![tests](https://github.com/XiyueZ1/UL-PEPS-piscine-calendar/actions/workflows/tests.yml/badge.svg)
+
 [Français](#français) · [English](#english) · [中文](#中文)
 
 ---

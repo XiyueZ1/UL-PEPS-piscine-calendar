@@ -90,6 +90,8 @@ python -m unittest discover -s tests -v
 
 Projet personnel, sans lien avec l'Université Laval ni le PEPS. Vérifiez toujours l'[horaire officiel](https://peps.ulaval.ca/activite/bains-libres) avant de vous déplacer.
 
+Code écrit avec l'aide de Claude (Anthropic).
+
 ### Licence
 
 [MIT](LICENSE)
@@ -182,6 +184,8 @@ python -m unittest discover -s tests -v
 
 Personal project, not affiliated with Université Laval or PEPS. Always check the [official schedule](https://peps.ulaval.ca/activite/bains-libres) before you go.
 
+Written with the help of Claude (Anthropic).
+
 ### Licence
 
 [MIT](LICENSE)
@@ -273,6 +277,8 @@ python -m unittest discover -s tests -v
 ### 说明
 
 这是个人项目，与拉瓦尔大学和 PEPS 没有关联。时间表以 [PEPS 官网](https://peps.ulaval.ca/activite/bains-libres) 为准，出发前请再确认一下。
+
+代码在 Claude（Anthropic）的协助下编写。
 
 ### 许可证
 

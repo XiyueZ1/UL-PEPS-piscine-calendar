@@ -1,0 +1,13 @@
+   # 生成的日历文件
+   *.ics
+   # 另存的网页
+   *.html
+   *.htm
+   # Python
+   __pycache__/
+   *.pyc
+   .venv/
+   venv/
+   # 系统文件
+   .DS_Store
+   Thumbs.db
